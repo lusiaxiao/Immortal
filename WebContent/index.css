@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background-color: transparent;
+	font-family:Times New Roman;
+}
+#header{
+	background-color:black;
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	padding:20px;
+}
+#nav{
+	background-color:#eeeeee;
+	float:left;
+	width:100px;
+	height:450px;
+	font-size:18px;
+	line-height:25px;
+	padding:5px;
+}
+#section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+
+#section h1 {
+	font-weight:bold;
+}
+#section p{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
